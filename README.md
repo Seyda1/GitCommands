@@ -6,7 +6,7 @@ Git rebase is the linear process of merging.
 ![Virtualization of rebase](rebase.png)
 ![Virtualization of rebase](rebase2.png)
 
-*Images are from *
-[GitRebaseVideo](https://youtu.be/0chZFIZLR_0?si=iWQd9clJ0VDIyW4o)
+*Images are from*
+[Git Rebase Video](https://youtu.be/0chZFIZLR_0?si=iWQd9clJ0VDIyW4o)
 *. This video explains git rebase very well.*
 
